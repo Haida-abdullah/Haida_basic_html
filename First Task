@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<title>Basic HTML</title>
+		
+	</head>
+
+	<body>
+
+		<header>
+			<h1 style="text-align: center">Weekly Tutorial Task</h1>
+		</header>
+	
+	<!-- Paragraph -->
+		<p style="color: blue">
+			<em>Task will be given every week by Sir Kader.</em>
+		</p>
+		<p style="color: blue">
+			<em>We have to submit the task on Friday using Google Classroom.</em>
+		</p>
+		<p style="color: blue">
+			<em>That's all from me. Thank you.</em>
+		</p>
+		<p style="text-align: center">
+			<strong>The End.</strong>
+		</p>
+
+	</body>
+</html>
